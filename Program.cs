@@ -20,5 +20,5 @@
 //     }
 // }
 // -------------------------------------------------------------
-// string name = "SMBUK";
+// string name = "SAMVELTSATURYAN";
 // System.Console.WriteLine($"Hello {name}");
